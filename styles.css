@@ -63,7 +63,7 @@ body {
 }
 
 .cabecalho {
-  min-height: 101vh;
+  min-height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,8 +72,8 @@ body {
 }
 
 .foto-perfil {
-  width: 320px;
-  height: 320px;
+  width: 350px;
+  height: 350px;
   box-shadow: 0 0 20px rgba(79, 70, 229, 0.3);
   border-radius: 50%;
   border: 4px solid var(--vidro);
@@ -94,7 +94,7 @@ h1 {
 }
 
 .sobre {
-  padding: 5rem 2rem;
+  padding: 6rem 2rem;
 }
 
 .sobre-titulo {
