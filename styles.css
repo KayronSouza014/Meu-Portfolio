@@ -42,8 +42,9 @@ body {
   text-decoration: none;
   color: var(--claro);
   font-weight: 500;
+  font-size: 1.1rem;
   position: relative;
-  padding: 0.5rem 0;
+  padding: 0.4rem 0;
 }
 
 .menu-link::after {
@@ -62,7 +63,7 @@ body {
 }
 
 .cabecalho {
-  min-height: 105vh;
+  min-height: 103vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -71,8 +72,8 @@ body {
 }
 
 .foto-perfil {
-  width: 350px;
-  height: 350px;
+  width: 320px;
+  height: 320px;
   box-shadow: 0 0 20px rgba(79, 70, 229, 0.3);
   border-radius: 50%;
   border: 4px solid var(--vidro);
@@ -88,12 +89,12 @@ h1 {
 }
 
 .cabecalho-sub-titulo {
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: var(--claro);
 }
 
 .sobre {
-  padding: 6rem 2rem;
+  padding: 5rem 1rem;
 }
 
 .sobre-titulo {
