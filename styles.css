@@ -35,14 +35,14 @@ body {
   display: flex;
   justify-content: center;
   list-style: none;
-  gap: 3rem;
+  gap: 4.5rem;
 }
 
 .menu-link {
   text-decoration: none;
   color: var(--claro);
   font-weight: 500;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   position: relative;
   padding: 0.4rem 0;
 }
@@ -63,7 +63,7 @@ body {
 }
 
 .cabecalho {
-  min-height: 103vh;
+  min-height: 101vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -89,12 +89,12 @@ h1 {
 }
 
 .cabecalho-sub-titulo {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   color: var(--claro);
 }
 
 .sobre {
-  padding: 5rem 1rem;
+  padding: 5rem 2rem;
 }
 
 .sobre-titulo {
@@ -109,7 +109,7 @@ h1 {
   max-width: 800px;
   margin: 0 auto;
   border-radius: 16px;
-  border: 1px solid var(--vidro);
+  border: 1px solid var(--vidro); 
   backdrop-filter: blur(10px);
   background: rgba(255, 255, 255, 0.05);
 
