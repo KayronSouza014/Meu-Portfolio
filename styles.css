@@ -28,21 +28,21 @@ body {
   background: rgba(15, 23, 42, 0.8);
   width: 100%;
   z-index: 100;
-  padding: 1.5rem;
+  padding: 1.8rem;
 }
 
 .menu {
   display: flex;
   justify-content: center;
   list-style: none;
-  gap: 4.5rem;
+  gap: 4rem;
 }
 
 .menu-link {
   text-decoration: none;
   color: var(--claro);
   font-weight: 500;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   position: relative;
   padding: 0.4rem 0;
 }
@@ -63,7 +63,7 @@ body {
 }
 
 .cabecalho {
-  min-height: 80vh;
+  min-height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -94,7 +94,7 @@ h1 {
 }
 
 .sobre {
-  padding: 6rem 2rem;
+  padding: 5rem 2rem;
 }
 
 .sobre-titulo {
