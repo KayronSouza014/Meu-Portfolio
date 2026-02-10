@@ -25,24 +25,25 @@ body {
 
 .navegacao {
   position: fixed;
+  top: 0;
   background: rgba(15, 23, 42, 0.8);
   width: 100%;
   z-index: 100;
-  padding: 1.8rem;
+  padding: 1.5rem;
 }
 
 .menu {
   display: flex;
   justify-content: center;
   list-style: none;
-  gap: 4rem;
+  gap: 3rem;
 }
 
 .menu-link {
   text-decoration: none;
   color: var(--claro);
   font-weight: 500;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   position: relative;
   padding: 0.4rem 0;
 }
@@ -169,11 +170,6 @@ h1 {
   padding: 1.5rem;
 }
 
-
-.paragrafo-projetos {
-  color: rgba(226, 232, 240, 0.8);
-  line-height: 1.25rem;
-}
 
 .info-projetos {
   margin-bottom: 5px;
