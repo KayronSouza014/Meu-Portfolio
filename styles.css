@@ -264,3 +264,57 @@ h1 {
   }
 
 }
+
+@media screen and (max-width: 768px) {
+
+  .navegacao {
+    padding: 0.9rem;
+  }
+
+  .menu {
+    gap: 1.5rem;
+  }
+
+  .menu-link {
+    font-size: 1.1rem;
+  }
+
+  .cabecalho {
+    padding: 2rem;
+  }
+
+  .foto-perfil {
+    width: 250px;
+    height: 250px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  .cabecalho-sub-titulo {
+    font-size: 1.2rem;
+  }
+
+  .sobre-titulo {
+    font-size: 2rem;
+  }
+  
+  .sobre-caixa {
+    padding: 2rem;
+  }
+
+  .sobre-paragrafo {
+    font-size: 1.2rem;
+    font-display: flex;
+  }
+
+  .projetos-titulo {
+    font-size: 2rem;
+  }
+
+  .contatos-titulo {
+    font-size: 2rem;
+  }
+
+}
